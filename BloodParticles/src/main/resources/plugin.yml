@@ -1,0 +1,6 @@
+name: BloodParticles
+version: 1.0.0
+main: com.rakilem.bloodparticles.BloodParticles
+author: Rakilem YT
+api: [1.0.0, 2.0.0]
+description: Plugin que genera partículas rojas alrededor de los jugadores al recibir daño en Minecraft.
